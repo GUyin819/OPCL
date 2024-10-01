@@ -11,6 +11,9 @@ DOMAIN-KEYWORD,baidu
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
+IP-CIDR,116.136.12.148/32,no-resolve
+IP-CIDR,182.254.116.117/32,no-resolve
+
 
 # 国内DNS
 DOMAIN-SUFFIX,dns.alidns.com
@@ -38,6 +41,11 @@ DOMAIN-SUFFIX,so.com
 
 # 58
 DOMAIN-SUFFIX,58.com
+
+# WWQY
+DOMAIN-SUFFIX,android.crashsight.qq.com
+DOMAIN-SUFFIX,receiver.tdm.qq.com
+DOMAIN-SUFFIX,thirdqq.qlogo.cn
 
 # Alibaba
 DOMAIN-SUFFIX,1688.com
